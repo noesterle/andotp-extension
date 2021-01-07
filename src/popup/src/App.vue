@@ -109,8 +109,8 @@ export default {
 html {
   background-color: #f1f1f1;
   box-sizing: border-box;
-  overflow-y: scroll;
-  width: 270px;
+  overflow-y: visible;
+  width: 100%;
   --primary: #388e3c;
   --accent: #fdca00;
 }
